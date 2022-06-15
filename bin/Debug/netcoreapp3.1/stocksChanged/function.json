@@ -1,0 +1,22 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions-3.0.12",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "cosmosDBTrigger",
+      "connectionStringSetting": "AzureCosmosDBConnectionString",
+      "leaseCollectionName": "leases",
+      "createLeaseCollectionIfNotExists": true,
+      "collectionName": "stocks",
+      "databaseName": "stocksdb",
+      "leaseDatabaseName": "stocksdb",
+      "startFromBeginning": false,
+      "useMultipleWriteLocations": false,
+      "useDefaultJsonSerialization": false,
+      "name": "input"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/SignalRDemoFunctions.dll",
+  "entryPoint": "SIgnalRDemoFunctions.StocksChangedFunction.Run"
+}

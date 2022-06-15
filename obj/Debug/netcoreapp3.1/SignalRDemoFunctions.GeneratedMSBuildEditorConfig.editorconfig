@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SignalRDemoFunctions
+build_property.ProjectDir = C:\temp\workshop-ui\signalr-demo-functions\

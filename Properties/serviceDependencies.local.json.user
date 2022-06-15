@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2021-05-25T20:27:34.6653901Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2021-05-25T20:27:34.0044971Z"
+    }
+  },
+  "parameters": {
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "throwAwayGroup01-rg"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "28bd7f21-ccaa-4dd6-98c8-0a2745c26cee"
+    }
+  }
+}
