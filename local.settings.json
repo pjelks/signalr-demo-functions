@@ -1,11 +1,11 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=signalstoragepjj;AccountKey=T5Qv/ADl6UjcKf1spGqRBtYTAua/3WzPAT+epn4SyTUxLi4n72bLfE+NYcarAx/hIvYAhV5yrn93Yw5s8aYoNw==;EndpointSuffix=core.windows.net",
-    "AzureCosmosDBConnectionString": "AccountEndpoint=https://cosmosdemopjj01.documents.azure.com:443/;AccountKey=5qpIgpUtvCAzAldPFs4ssvL9cKOeXPU7UGZdHWJ3T7f1i1bx2061rFVwi9i5ihDjbLAbJ6PFR3jNVCbQZB2W3w==;",
-    "AzureSignalRConnectionString": "Endpoint=https://signalrdemopjj01.service.signalr.net;AccessKey=LfVfu/MBZqX/15jjN+DdMfB33O8Y73ZmERRjVa37lf4=;Version=1.0;",
-    "AzureCosmosDBEndpoint": "https://cosmosdemopjj01.documents.azure.com:443/",
-    "AzureCosmosDBPrimaryKey": "5qpIgpUtvCAzAldPFs4ssvL9cKOeXPU7UGZdHWJ3T7f1i1bx2061rFVwi9i5ihDjbLAbJ6PFR3jNVCbQZB2W3w==",
+    "AzureWebJobsStorage": "",
+    "AzureCosmosDBConnectionString": "",
+    "AzureSignalRConnectionString": "",
+    "AzureCosmosDBEndpoint": "",
+    "AzureCosmosDBPrimaryKey": "",
     "AzureCosmosDBDatabaseId": "stocksdb",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet"
   },
